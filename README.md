@@ -9,3 +9,6 @@ https://drive.google.com/drive/folders/1tJDzsft3JM4O2q3ybW2102PuMqPB7LCG?usp=sha
 
 Link to Flutter UI Repository-
 https://github.com/kriti-banka/Trendsphere_Moon/tree/master
+
+Link of Dataset Used-
+https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews
