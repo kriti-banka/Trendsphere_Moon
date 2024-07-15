@@ -1,6 +1,6 @@
 # myntra
 
-A new Flutter project.
+A new Flutter project. (Master Branch)
 
 ## Getting Started
 
